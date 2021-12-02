@@ -32,6 +32,10 @@ total fares
 ![Fig5](https://user-images.githubusercontent.com/90135381/144482489-7aab1ab7-7ac2-47cb-9815-2077612f87d0.png)
 
 
+	        Total Rides	Total Drivers	Total Fares	Average Fare per Ride	Average Fare per Driver
+Rural	            125	           78	  $4,327.93	               $34.62	                 $55.49
+Suburban	        625	          490	 $19,356.33.             	 $30.97	                 $39.50
+Urban	           1,625	      2,405	 $39,854.38	               $24.53	                 $16.57
 
 
 average fare per ride and driver
