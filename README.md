@@ -9,20 +9,15 @@ The purpose of this challenge was to inspect large CSV data files, merge data se
 
 ##***RESULTS:***
 The differences in ride sharing data among city types could be seen by the following:
-total rides
-![Fig2](https://user-images.githubusercontent.com/90135381/144482830-37d1de22-3d3d-4ce3-8d5f-2e1eb55c75ae.png)
 
 
 
 
-total drivers
 
-![Fig4](https://user-images.githubusercontent.com/90135381/144482940-a4e12a72-a297-461d-a163-4f7540a92d1a.png)
+<
 
 
-![Fig3](https://user-images.githubusercontent.com/90135381/144482971-b551d2b3-3008-4eeb-8eb2-b0955391b3e6.png)
-
-![Fig7](https://user-images.githubusercontent.com/90135381/144482421-13928bbd-3a16-4d88-8eef-568bd059d5a4.png)
+![Fig7](https://user-images.githubusercontent.com/90135381/144482421-13928bbd-3a16-4d88-8eef-568bd059d5a4.png)<img width="468" alt="image" src="https://user-
 
 ![Fig6](https://user-images.githubusercontent.com/90135381/144482659-e0ef11e2-62ff-4df0-bbae-c6ea60317746.png)
 
@@ -30,21 +25,10 @@ total drivers
 
 total fares
 ![Fig5](https://user-images.githubusercontent.com/90135381/144482489-7aab1ab7-7ac2-47cb-9815-2077612f87d0.png)
+ 
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/90135381/144486195-92386663-5704-4687-ba5d-6cfa83863e98.png">
 
 
-	        Total Rides	Total Drivers	Total Fares	Average Fare per Ride	Average Fare per Driver
-Rural	            125	           78	  $4,327.93	               $34.62	                 $55.49
-Suburban	        625	          490	 $19,356.33.             	 $30.97	                 $39.50
-Urban	           1,625	      2,405	 $39,854.38	               $24.53	                 $16.57
-
-	Total Rides	Total Drivers	Total Fares	Average Fare per Ride	Average Fare per Driver
-Rural	125	78	$4,327.93	$34.62	$55.49
-Suburban	625	490	$19,356.33	$30.97	$39.50
-Urban	1,625	2,405	$39,854.38	$24.53	$16.57
-
-average fare per ride and driver
-
-average total fare by city type
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/90135381/144482116-3242a8c7-ebb1-4842-a407-d246cc4c80d2.png)
 
