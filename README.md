@@ -8,13 +8,7 @@ Jupyter, Pandas, Python, matplotlib, SciPy, Numpy
 The purpose of this challenge was to inspect large CSV data files, merge data sets, perform calculations and create data series and DF's in order to help CEO V. Isualize determine ride sharing services access and affordability in three types of cities: urban, suburban and rural. The data sets considered were total # of rides, total # drivers, total fares for each city type, calculated average fare per ride and average fare per driver, in the months between January and April. The data was then be presented utilizing various chart and graph types for ease of comprehension and comparison.
 
 ##***RESULTS:***
-The differences in ride sharing data among city types could be seen by the following:
-
-
-
-
-
-<
+The differences in ride sharing data among city types could be seen by the following data:
 
 
 ![Fig7](https://user-images.githubusercontent.com/90135381/144482421-13928bbd-3a16-4d88-8eef-568bd059d5a4.png)<img width="468" alt="image" src="https://user-
