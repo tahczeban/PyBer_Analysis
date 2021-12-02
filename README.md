@@ -21,11 +21,11 @@ The differences in ride sharing data among city types could be seen by the follo
 
 ![Fig5](https://user-images.githubusercontent.com/90135381/144482489-7aab1ab7-7ac2-47cb-9815-2077612f87d0.png)
 
-As seen in the above figures, urban cities significantly had the most percent drivers, percent total rides and fares by city type, followed by suburban and rural. In contrast; however, urban drivers demonstrated the least averages for fares per ride and driver, with rural having the most and suburban in the middle (seen in figures below). The graphical trends indicate increased usage between february and march across all city types, with urban and rural fares decreasing after april, while suburban fares increasing.
+    As seen in the above figures, urban cities significantly had the most percent drivers, percent total rides and fares by city type, followed by suburban and rural. In contrast; however, urban drivers demonstrated the least averages for fares per ride and driver, with rural having the most and suburban in the middle (seen in figures below). The graphical trends indicate increased usage between february and march across all city types, with urban and rural fares decreasing after april, while suburban fares increasing. Urban cities accomodates 1625 rides, in comparison with suburban at 625 and rural at 125. With more drivers, the dollar amount in fares increased significantly from urban($39,584.4) compared to rural ($4,327.9) and suburban in the moddle ($19,356.3)
  
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/90135381/144486195-92386663-5704-4687-ba5d-6cfa83863e98.png">
 
-
+    
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/90135381/144482116-3242a8c7-ebb1-4842-a407-d246cc4c80d2.png)
 
@@ -35,14 +35,13 @@ As seen in the above figures, urban cities significantly had the most percent dr
 1. PyBer is utilized more and has more drivers in urban cities, making the most revenue
 2. Drivers in rural cities make more money than other cities
 3. The cost of using average fare per ride and driverPyBer services is greater in rural cities
-4. 
 
-Three recommendations to the CEO, V.Isualize, and Omar are:
+The recommendations to the CEO, V.Isualize, and Omar are:
 
 1.URBAN: Increase urban ride fares for increased profitability on a larger scale of use
 2.SUBURBAN:feature different automobile and ride share options to make it more appealing for usage
 3.RURAL: Increase number of drivers and ride share incentives for increased use
-4.Lastly, consideration should be given for time of usage in terms of months actoss all city types. Perhaps increasing suburban drivers after april and decreasing urban and ruralm to accomote the fluctuations in total fares
+4.Lastly, consideration should be given for time of usage in terms of months actoss all city types. Perhaps increasing suburban drivers after april and decreasing urban and rural to accomote the fluctuations in total fares
 
 
 
