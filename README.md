@@ -13,10 +13,12 @@ The differences in ride sharing data among city types could be seen by the follo
 
 ![Fig7](https://user-images.githubusercontent.com/90135381/144482421-13928bbd-3a16-4d88-8eef-568bd059d5a4.png)
 
+
+
 ![Fig6](https://user-images.githubusercontent.com/90135381/144482659-e0ef11e2-62ff-4df0-bbae-c6ea60317746.png)
 
 
-
+As seen inn the above figures, urban cities had the most drivers and percent total rides, followed by suburban and rural.
 
 ![Fig5](https://user-images.githubusercontent.com/90135381/144482489-7aab1ab7-7ac2-47cb-9815-2077612f87d0.png)
  
