@@ -11,13 +11,13 @@ The purpose of this challenge was to inspect large CSV data files, merge data se
 The differences in ride sharing data among city types could be seen by the following data:
 
 
-![Fig7](https://user-images.githubusercontent.com/90135381/144482421-13928bbd-3a16-4d88-8eef-568bd059d5a4.png)<img width="468" alt="image" src="https://user-
+![Fig7](https://user-images.githubusercontent.com/90135381/144482421-13928bbd-3a16-4d88-8eef-568bd059d5a4.png)
 
 ![Fig6](https://user-images.githubusercontent.com/90135381/144482659-e0ef11e2-62ff-4df0-bbae-c6ea60317746.png)
 
 
 
-total fares
+
 ![Fig5](https://user-images.githubusercontent.com/90135381/144482489-7aab1ab7-7ac2-47cb-9815-2077612f87d0.png)
  
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/90135381/144486195-92386663-5704-4687-ba5d-6cfa83863e98.png">
