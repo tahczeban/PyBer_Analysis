@@ -19,6 +19,9 @@ average fare per ride and driver
 
 average total fare by city type
 
+![PyBer_fare_summary](https://user-images.githubusercontent.com/90135381/144482116-3242a8c7-ebb1-4842-a407-d246cc4c80d2.png)
+
+
 ##***SUMMARY:***
 
 1. PyBer is utilized more and has more drivers in urban cities, making the most revenue
@@ -26,6 +29,7 @@ average total fare by city type
 3. The cost of using average fare per ride and driverPyBer services is greater in rural cities
 
 Three recommendations to the CEO, V.Isualize, and Omar aree:
+
 
 
 
