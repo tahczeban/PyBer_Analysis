@@ -39,7 +39,7 @@ As seen in the above figures, urban cities significantly had the most percent dr
 The recommendations to the CEO, V.Isualize, and Omar are:
 
 1.URBAN: Increase urban ride fares for increased profitability on a larger scale of use
-2.SUBURBAN:feature different automobile and ride share options to make it more appealing for usage
+2.SUBURBAN:feature different automobile and ride share options to make it more appealing 
 3.RURAL: Increase number of drivers and ride share incentives for increased use
 4.Lastly, consideration should be given for time of usage in terms of months across all city types. Perhaps increasing suburban drivers after april and decreasing urban and rural to accomote fluctuations in total fares could be taken into account. In addition to the timeline consideration, population and age demographics could be useful for future analysis.
 
