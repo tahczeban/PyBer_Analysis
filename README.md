@@ -21,7 +21,7 @@ The differences in ride sharing data among city types could be seen by the follo
 
 ![Fig5](https://user-images.githubusercontent.com/90135381/144482489-7aab1ab7-7ac2-47cb-9815-2077612f87d0.png)
 
-    As seen in the above figures, urban cities significantly had the most percent drivers, percent total rides and fares by city type, followed by suburban and rural. In contrast; however, urban drivers demonstrated the least averages for fares per ride and driver, with rural having the most and suburban in the middle (seen in figures below). The graphical trends indicate increased usage between february and march across all city types, with urban and rural fares decreasing after april, while suburban fares increasing. Urban cities accomodates 1625 rides, in comparison with suburban at 625 and rural at 125. With more drivers, the dollar amount in fares increased significantly from urban($39,584.4) compared to rural ($4,327.9) and suburban in the moddle ($19,356.3). That being said, the average ride fares and driver fares were significantly less for urban, $24.5 and $16.6, respectively and more for rural $34.6 and $55.5, respectively.
+As seen in the above figures, urban cities significantly had the most percent drivers, percent total rides and fares by city type, followed by suburban and rural. In contrast; however, urban drivers demonstrated the least averages for fares per ride and driver, with rural having the most and suburban in the middle (seen in figures below). The graphical trends indicate increased usage between february and march across all city types, with urban and rural fares decreasing after april, while suburban fares increasing. Urban cities accomodates 1625 rides, in comparison with suburban at 625 and rural at 125. With more drivers, the dollar amount in fares increased significantly from urban($39,584.4) compared to rural ($4,327.9) and suburban in the moddle ($19,356.3). That being said, the average ride fares and driver fares were significantly less for urban, $24.5 and $16.6, respectively and more for rural $34.6 and $55.5, respectively.
  
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/90135381/144486195-92386663-5704-4687-ba5d-6cfa83863e98.png">
 
@@ -41,11 +41,6 @@ The recommendations to the CEO, V.Isualize, and Omar are:
 1.URBAN: Increase urban ride fares for increased profitability on a larger scale of use
 2.SUBURBAN:feature different automobile and ride share options to make it more appealing for usage
 3.RURAL: Increase number of drivers and ride share incentives for increased use
-4.Lastly, consideration should be given for time of usage in terms of months actoss all city types. Perhaps increasing suburban drivers after april and decreasing urban and rural to accomote the fluctuations in total fares
-
-
-
-
-
+4.Lastly, consideration should be given for time of usage in terms of months across all city types. Perhaps increasing suburban drivers after april and decreasing urban and rural to accomote fluctuations in total fares could be taken into account. In addition to the timeline consideration, population and age demographics could be useful for future analysis.
 
 ##***REFERENCES:### BSC, GitHub, Gooagle, StackOverflow
