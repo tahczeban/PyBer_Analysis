@@ -13,11 +13,11 @@ The differences in ride sharing data among city types could be seen by the follo
 
 ![Fig7](https://user-images.githubusercontent.com/90135381/144482421-13928bbd-3a16-4d88-8eef-568bd059d5a4.png)
 
-
+                            FIGURE 1
 
 ![Fig6](https://user-images.githubusercontent.com/90135381/144482659-e0ef11e2-62ff-4df0-bbae-c6ea60317746.png)
 
-
+FIGURE 2
 
 ![Fig5](https://user-images.githubusercontent.com/90135381/144482489-7aab1ab7-7ac2-47cb-9815-2077612f87d0.png)
 
@@ -39,7 +39,7 @@ As seen in the above figures, urban cities significantly had the most percent dr
 The recommendations to the CEO, V.Isualize, and Omar are:
 
 1.URBAN: Increase urban ride fares for increased profitability on a larger scale of use
-2.SUBURBAN:feature different automobile and ride share options to make it more appealing 
+2.SUBURBAN:Feature different automobile and ride share options to make it more appealing 
 3.RURAL: Increase number of drivers and ride share incentives for increased use
 4.Lastly, consideration should be given for time of usage in terms of months across all city types. Perhaps increasing suburban drivers after april and decreasing urban and rural to accomote fluctuations in total fares could be taken into account. In addition to the timeline consideration, population and age demographics could be useful for future analysis.
 
