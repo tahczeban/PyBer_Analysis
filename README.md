@@ -10,6 +10,7 @@ The purpose of this challenge was to inspect large CSV data files, merge data se
 ***RESULTS:***
 The differences in ride sharing data among city types could be seen by the following data:
 
+        Pie Charts comparing % total drivers, % total rides and % total fares
 
 ![Fig7](https://user-images.githubusercontent.com/90135381/144482421-13928bbd-3a16-4d88-8eef-568bd059d5a4.png)
 
