@@ -25,6 +25,7 @@ The differences in ride sharing data among city types could be seen by the follo
                                    FIGURE 3
 As seen in the above figures, urban cities significantly had the most percent drivers, percent total rides and fares by city type, followed by suburban and rural. In contrast; however, urban drivers demonstrated the least averages for fares per ride and driver, with rural having the most and suburban in the middle (seen in figures below). The graphical trends indicate increased usage between february and march across all city types, with urban and rural fares decreasing after april, while suburban fares increasing. Urban cities accomodates 1625 rides, in comparison with suburban at 625 and rural at 125. With more drivers, the dollar amount in fares increased significantly from urban($39,584.4) compared to rural ($4,327.9) and suburban in the moddle ($19,356.3). That being said, the average ride fares and driver fares were significantly less for urban, $24.5 and $16.6, respectively and more for rural $34.6 and $55.5, respectively.
  
+                        Table of numeric values per city type
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/90135381/144486195-92386663-5704-4687-ba5d-6cfa83863e98.png">
 
                                    FIGURE 4
