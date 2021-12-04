@@ -30,6 +30,8 @@ As seen in the above figures, urban cities significantly had the most percent dr
 
                                    FIGURE 4
 
+
+                        Line graph of fares by city type over time
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/90135381/144482116-3242a8c7-ebb1-4842-a407-d246cc4c80d2.png)
 
                                    FIGURE 5
@@ -40,11 +42,14 @@ As seen in the above figures, urban cities significantly had the most percent dr
 2. Drivers in rural cities make more money than other cities
 3. The cost of using average fare per ride and driverPyBer services is greater in rural cities
 
-The recommendations to the CEO, V.Isualize, and Omar are:
+RECOMMENDATIONS to the CEO, V.Isualize, and Omar are:
 
 1.URBAN: Increase urban ride fares for increased profitability on a larger scale of use
-2.SUBURBAN:Feature different automobile and ride share options to make it more appealing 
+
+2.SUBURBAN:Feature different automobile and ride share options to make it more appealing
+
 3.RURAL: Increase number of drivers and ride share incentives for increased use
-4.Lastly, consideration should be given for time of usage in terms of months across all city types. Perhaps increasing suburban drivers after april and decreasing urban and rural to accomote fluctuations in total fares could be taken into account. In addition to the timeline consideration, population and age demographics could be useful for future analysis.
+
+Lastly, consideration should be given for time of usage in terms of months across all city types. Perhaps increasing suburban drivers after april and decreasing urban and rural to accomote fluctuations in total fares could be taken into account. In addition to the timeline consideration, population and age demographics could be useful for future analysis.
 
 ***REFERENCES: BSC, GitHub, Gooagle, StackOverflow
