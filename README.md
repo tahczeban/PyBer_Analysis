@@ -58,4 +58,4 @@ RECOMMENDATIONS to the CEO, V.Isualize, and Omar are:
 
 Lastly, consideration should be given for time of usage in terms of months across all city types. Perhaps increasing suburban drivers after april and decreasing urban and rural to accomote fluctuations in total fares could be taken into account. In addition to the timeline consideration, population and age demographics could be useful for future analysis.
 
-***REFERENCES: BSC, GitHub, Gooagle, StackOverflow
+***REFERENCES: BSC, GitHub, Google, StackOverflow
