@@ -1,12 +1,18 @@
 # ***PyBer_Analysis_Challenge***
 Module 5
 
+![image](https://user-images.githubusercontent.com/90135381/158723961-5f92ec31-1548-4a80-8c7b-4f8890b0bba9.png)
+
+________________
 ***RESOURCES:***
 Jupyter, Pandas, Python, matplotlib, SciPy, Numpy
+IMAGE: obtained from: https://www.pngegg.com/en/search?q=carpool
 
+_______________
 ***OVERVIEW:***
 The purpose of this challenge was to inspect large CSV data files, merge data sets, perform calculations and create data series and DF's in order to help CEO V. Isualize determine ride sharing services access and affordability in three types of cities: urban, suburban and rural. The data sets considered were total rides, total drivers, total fares for each city type, calculated average fare per ride and average fare per driver, in the months between January and April. The data was then be presented utilizing various chart and graph types for ease of comprehension and comparison.
 
+______________
 ***RESULTS:***
 The differences in ride sharing data among city types could be seen by the following data:
 
@@ -42,6 +48,7 @@ In contrast; however, urban drivers demonstrated the least averages for fares pe
                                           FIGURE 5
 The graphical trends, in figure 5,  indicate increased usage between february and march across all city types, with urban and rural fares decreasing after april, while suburban fares increasing.
 
+______________
 ***SUMMARY:***
 
 1. PyBer is utilized more and has more drivers in urban cities, making the most revenue.
@@ -58,4 +65,5 @@ RECOMMENDATIONS to the CEO, V.Isualize, and Omar are:
 
 Lastly, consideration should be given for time of usage in terms of months across all city types. Perhaps increasing suburban drivers after april and decreasing urban and rural to accomote fluctuations in total fares could be taken into account. In addition to the timeline consideration, population and age demographics could be useful for future analysis.
 
+______________
 ***REFERENCES: BSC, GitHub, Google, StackOverflow
